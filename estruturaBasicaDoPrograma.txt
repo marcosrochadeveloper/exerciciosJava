@@ -1,0 +1,120 @@
+Exercício 1 — Impressão simples no console
+
+Descrição:
+Crie um programa Java que contenha a estrutura mínima (class e main) e imprima uma mensagem simples no console usando uma variável já inicializada.
+
+Dados fornecidos:
+String mensagem = "Olá, Mundo!";
+
+Saída esperada:
+Olá, Mundo!
+
+
+
+
+Exercício 2 — Impressão de duas linhas
+
+Descrição:
+Crie um programa Java com a estrutura básica que imprima duas linhas no console, utilizando duas variáveis diferentes.
+
+Dados fornecidos:
+String primeiraLinha = "Bem-vindo à programação Java";
+String segundaLinha = "Este é meu primeiro programa";
+
+Saída esperada:
+Bem-vindo à programação Java
+Este é meu primeiro programa
+
+
+
+
+Exercício 3 — Impressão de múltiplas linhas (três variáveis)
+
+Descrição:
+Crie um programa Java com a estrutura básica que utilize três variáveis do tipo String e imprima cada uma em uma linha separada no console.
+
+Dados fornecidos:
+String linha1 = "Fundamentos do Java";
+String linha2 = "Estrutura";
+String linha3 = "Método Main";
+
+Saída esperada:
+Fundamentos do Java
+Estrutura
+Método Main
+
+
+
+
+Exercício 4 — Texto fixo + variável
+
+Descrição:
+Crie um programa Java com a estrutura básica que imprima uma mensagem composta por texto fixo e uma variável, respeitando exatamente os espaços e pontuação.
+
+Dados fornecidos:
+String linguagem = "Java";
+
+Saída esperada:
+Linguagem: Java.
+
+
+
+
+Exercício 5 — Impressão em uma única linha (concatenação)
+
+Descrição:
+Crie um programa Java que declare variáveis de tipos diferentes e mostre todas as informações em uma única linha no console.
+
+Dados fornecidos:
+String nome = "Alex";
+int idade = 25;
+
+Saída esperada:
+Nome: Alex, Idade: 25
+
+
+
+
+Exercício 6 — Relatório simples formatado
+
+Descrição:
+Crie um programa Java com a estrutura básica que imprima um relatório simples no console, respeitando exatamente a formatação apresentada.
+
+Dados fornecidos:
+String produto = "Caneta";
+double preco = 2.50;
+
+Saída esperada:
+Relatório do produto:
+Caneta - R$ 2.50
+
+
+
+
+Exercício 7 — Uso de linha em branco na saída
+
+Descrição:
+Crie um programa Java com a estrutura básica que imprima um cabeçalho, uma linha em branco e uma mensagem final no console.
+
+Dados fornecidos:
+String titulo = "Status do Sistema";
+String status = "Executando normalmente";
+
+Saída esperada:
+Status do Sistema
+
+Executando normalmente
+
+
+
+
+Exercício 8 — Mensagem final de encerramento
+
+Descrição:
+Crie um programa Java com a estrutura básica que imprima uma mensagem final de encerramento do programa usando uma variável já inicializada.
+
+Dados fornecidos:
+String mensagem = "Programa finalizado com sucesso";
+
+Saída esperada:
+Programa finalizado com sucesso
